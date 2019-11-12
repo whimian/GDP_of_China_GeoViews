@@ -11,3 +11,4 @@ from 国家数据 `http://data.stats.gov.cn/`
 ```
 conda create -n NAME -c pyviz geoviews pandas xlrd jupyter notebook
 ```
+![snapshot](snapshot.png)
